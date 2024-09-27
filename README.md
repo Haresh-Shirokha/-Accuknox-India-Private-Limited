@@ -4,7 +4,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone <repo_url>
+   git clone <C:\Users\Shirokha's\Desktop\accuknox>
    cd social_network
 
    API Endpoints
